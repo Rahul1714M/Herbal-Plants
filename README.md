@@ -8,7 +8,7 @@ This is my **first front-end web development project**, created to improve my HT
 
 ## 📸 Preview
 
-> *(Add screenshots of your website here)*
+![Website Preview](images/example.PNG)
 
 ---
 
